@@ -1,4 +1,4 @@
-Tessel GPRS Trigger
+##Tessel GPRS Trigger  
 This module lets you use your Tessel's GPRS module to make other Tessel modules do things. This essentially means that you can text your Tessel and have it execute a function using any module. 
 
 ```js
