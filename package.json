@@ -1,0 +1,14 @@
+{
+  "name": "gprs-trigger",
+  "version": "0.0.4",
+  "description": "This npm module allows you to use Tessel's GPRS module to trigger other modules on your Tessel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gprs-sim900": "~0.1.3"
+  }
+}
